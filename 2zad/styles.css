@@ -1,0 +1,6 @@
+body{font-family: Arial,Helvetica,sans-serif;}
+#главно {width:861px;}
+.nav span{font-weight:bold; color:#4f8bc9; font-size:14px; margin:0 3px 0 3px; padding:8px 4px 8px 4px; border-radius:4px; display:inline-block;}
+.first_one {background:#4f8bc9; color:#fff!important;}
+.img {width:198px; height:221px; overflow:hidden;}
+.images {padding:3px; border:1px solid #DDDDDD; border-radius:4px; float:left; margin:4px;}
